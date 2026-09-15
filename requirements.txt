@@ -1,9 +1,9 @@
 h5py
 matplotlib
 numpy
-opencv_python
+opencv-python
 openpyxl
 pandas
-scikit_learn
+scikit-learn
 scipy
 smbus2
